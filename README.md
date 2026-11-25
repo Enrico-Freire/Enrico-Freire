@@ -1,16 +1,49 @@
-## Hi there 👋
+# 💻 Enrico Freire
 
-<!--
-**Enrico-Freire/Enrico-Freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Fullstack em formação do IFSP`**
 
-Here are some ideas to get you started:
+Meu nome é Enrico Emanuel Silva Freire, tenho 16 anos e moro Capivari-SP. Estou cursando o ensino médio integrado ao curso técnico de informática no IFSP. Gosto muito de tecnologia e procuro sempre apliar meus conhecimentos na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" alt="JS" title="JAVASCRIPT" width="30px" style="padding-right: 10px;"
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="left" alt="JAVA" title="JAVA" width="30px" style="padding-right: 10px;"
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align="left" alt="C" title="C" width="30px" style="padding-right: 10px;"
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" alt="GIT" title="GIT" width="30px" style="padding-right: 10px;"
+/>
+<br>
+<br>
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=enrico-freire&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrico-freire&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
