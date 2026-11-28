@@ -47,3 +47,4 @@ Meu nome é Enrico Emanuel Silva Freire, tenho 16 anos e moro Capivari-SP. Estou
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrico-freire&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&size_weight=0.5&count_weight=0.5" 
   />
 </p>
+
