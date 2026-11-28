@@ -44,7 +44,6 @@ Meu nome é Enrico Emanuel Silva Freire, tenho 16 anos e moro Capivari-SP. Estou
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrico-freire&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&size_weight=0.5&count_weight=0.5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrico-freire&theme=tokyonight&layout=compact&custom_title=Tecnologias%20atualizadas&langs_count=9&size_weight=0.5&count_weight=0.5&cache_seconds=21600" 
   />
 </p>
-
